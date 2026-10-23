@@ -1,4 +1,5 @@
 # HTML and CSS projects from the 'Learn HTML and CSS' course on Scrimba
 
-- [Personal site](https://musab-sagri.netlify.app)
-- [Google clone](https://sage-daifuku-a5dd70.netlify.app)
+- [Personal Site](https://musab-sagri.netlify.app)
+- [Google Clone](https://sage-daifuku-a5dd70.netlify.app)
+- [The Daily Dribble Newsletter](https://chimerical-babka-09a538.netlify.app/)
