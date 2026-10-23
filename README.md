@@ -1,1 +1,1 @@
-# Scrimba-HTML-CSS-Projects
+# HTML and CSS projects from the 'Learn HTML and CSS' course on Scrimba
