@@ -1,0 +1,57 @@
+.main {
+    margin: 8px;
+    text-align: center;
+    font-family: Arial, sans-serif, helvetica;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #121212;
+    font-weight: bold;
+}
+.soccer-stadium {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+.description {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-style: italic;
+}
+
+.email {
+    margin-top: 10px;
+    width: 242px;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.join-button {
+    margin-top: 10px;
+    width: 250px;
+    background-color: #121212;
+    border: 3px solid #121212;
+    font-weight: bold;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.terms {
+    font-style: italic;
+    color: #121212;
+}
+
+a{
+    color: #121212; 
+}
