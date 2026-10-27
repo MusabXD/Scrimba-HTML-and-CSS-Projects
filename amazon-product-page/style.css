@@ -1,0 +1,55 @@
+body {
+    font-family: "Amazon Ember", Arial, sans-serif;
+    margin: 30px;
+}
+
+.product-page {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    font-size: 14px;
+    color: #565959;
+    display: block;
+    margin-bottom: 10px;
+}
+.book-cover {
+    width: 300px;
+    margin-top: 20px;
+    margin-right: 50px;
+    box-shadow: 1px 1px 4px #565959;
+}
+
+.heading {
+    font-weight: normal;
+}
+
+.author {
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: -10px;
+}
+
+.rating {
+    font-size: 14px;
+    display: flex;
+    gap: 5px;
+
+}
+
+.star-rating {
+    width: 60px;
+    height: 30px;
+    margin-top: 6px;
+}
+
+.subheading {
+    font-size: 18px;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 25px;
+}
+
