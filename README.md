@@ -1,4 +1,4 @@
-# HTML and CSS projects from the 'Learn HTML and CSS' course on Scrimba
+# HTML and CSS projects from the 'Learn HTML and CSS' and 'The Fullstack Developer Path' courses on Scrimba
 
 - [Personal Site](https://musab-sagri.netlify.app)
 - [Google Clone](https://sage-daifuku-a5dd70.netlify.app)
